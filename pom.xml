@@ -94,13 +94,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus-release</id>
-	      <name>Releases Nexus Repository</name>
+	      <name>Releases_mtnpro Nexus Repository</name>
 	      <url>http://nexus:8081/repository/release_mtnpro/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus-snapshot</id>
-	      <name>Snapshot Nexus Repository </name>
+	      <name>Snapshot_mtnpro Nexus Repository </name>
 	      <url>http://nexus:8081/repository/snapshot_mtnpro/</url>
 	    </snapshotRepository>
 	    
